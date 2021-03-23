@@ -57,7 +57,7 @@
                     <navigationItem key="navigationItem" title="GoodWeather" id="mVA-gP-OUA">
                         <barButtonItem key="rightBarButtonItem" systemItem="add" id="HeF-fh-4vk">
                             <connections>
-                                <segue destination="fPp-Hu-Zhh" kind="presentation" id="5vT-FO-319"/>
+                                <segue destination="fPp-Hu-Zhh" kind="presentation" identifier="AddWeatherViewViewController" id="5vT-FO-319"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
